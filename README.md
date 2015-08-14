@@ -32,3 +32,6 @@ From a command prompt, compile the Java code, and run the Java code.  Alt-tab ba
 cdesai$ javac Crafter.java
 cdesai$ java Crafter
 ```
+
+### License
+[MIT](LICENSE)
