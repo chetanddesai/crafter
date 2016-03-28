@@ -1,4 +1,4 @@
-# Gaming Crafter ![Build Status](https://travis-ci.org/chetanddesai/crafter.svg?branch=master)
+# Gaming Crafter [![Build Status](https://travis-ci.org/chetanddesai/crafter.svg?branch=master)](https://travis-ci.org/chetanddesai/crafter)
 
 A simple java app to perform time-intervaled keyclicks.  This can be used to do tedious things like crafting in a game.
 
